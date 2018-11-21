@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exception</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_fragmentAsk">Ask a Question</string>
+    <string name="title_fragmentMy">My Questions</string>
+    <string name="title_fragmentTop">Top Questions</string>
+    <string name="title_fragmentSearg">Answer Questions</string>
+</resources>
