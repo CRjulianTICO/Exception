@@ -1,8 +1,20 @@
 <resources>
     <string name="app_name">Exception</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_logout">LogOut</string>
     <string name="title_fragmentAsk">Ask a Question</string>
     <string name="title_fragmentMy">My Questions</string>
     <string name="title_fragmentTop">Top Questions</string>
     <string name="title_fragmentSearg">Answer Questions</string>
+    <string name="tvTitleQuestion">Title of the Question:</string>
+    <string name="tvThemeQuestion">Theme of the Question:</string>
+    <string name="cbThemeOther">Other:</string>
+    <string name="tvDescriptionQuestion">Description of the Question:</string>
+    <string name="tvAddImage">Add an image</string>
+    <string name="btPublish">Publish</string>
+    <string name="tvLoginWith">Login With:</string>
+    <string name="tvLoginUsername">Username:</string>
+    <string name="tvLoginEmail">Email:</string>
+    <string name="tvLoginPassword">Password:</string>
+    <string name="tvLoginRePassword">Repeat Password:</string>
+    <string name="btLogin">Login</string>
 </resources>
