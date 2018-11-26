@@ -11,4 +11,10 @@
     <string name="tvDescriptionQuestion">Description of the Question:</string>
     <string name="tvAddImage">Add an image</string>
     <string name="btPublish">Publish</string>
+    <string name="tvLoginWith">Login With:</string>
+    <string name="tvLoginUsername">Username:</string>
+    <string name="tvLoginEmail">Email:</string>
+    <string name="tvLoginPassword">Password:</string>
+    <string name="tvLoginRePassword">Repeat Password:</string>
+    <string name="btLogin">Login</string>
 </resources>

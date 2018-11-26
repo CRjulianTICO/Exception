@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@android:color/background_light"
     tools:context=".MakeFragment">
 
     <TextView
@@ -50,6 +50,7 @@
         android:layout_marginLeft="16dp"
         android:layout_marginTop="18dp"
         android:src="@drawable/php_on_icon"
+        android:background="@android:color/background_light"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvTheme" />
 
@@ -59,6 +60,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
         android:layout_marginTop="16dp"
+        android:background="@android:color/background_light"
         android:src="@drawable/php_on_icon"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvTheme" />
@@ -70,6 +72,7 @@
         android:layout_marginLeft="88dp"
         android:layout_marginTop="16dp"
         android:src="@drawable/javascript_on_icon"
+        android:background="@android:color/background_light"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvTheme" />
 
@@ -80,6 +83,7 @@
         android:layout_marginLeft="160dp"
         android:layout_marginTop="16dp"
         android:src="@drawable/nodejs_on_icon"
+        android:background="@android:color/background_light"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvTheme" />
 
@@ -89,6 +93,7 @@
         android:layout_marginStart="228dp"
         android:layout_marginLeft="228dp"
         android:layout_marginTop="16dp"
+        android:background="@android:color/background_light"
         android:src="@drawable/python_on_icon"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvTheme" />
@@ -100,6 +105,7 @@
         android:layout_marginLeft="296dp"
         android:layout_marginTop="16dp"
         android:src="@drawable/windows_on_icon"
+        android:background="@android:color/background_light"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvTheme" />
 
