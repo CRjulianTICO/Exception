@@ -4,6 +4,7 @@
     <string name="title_fragmentAsk">Ask a Question</string>
     <string name="title_fragmentMy">My Questions</string>
     <string name="title_fragmentTop">Top Questions</string>
+
     <string name="title_fragmentSearg">Answer Questions</string>
     <string name="tvTitleQuestion">Title of the Question:</string>
     <string name="tvThemeQuestion">Theme of the Question:</string>
@@ -17,4 +18,12 @@
     <string name="tvLoginPassword">Password:</string>
     <string name="tvLoginRePassword">Repeat Password:</string>
     <string name="btLogin">Login</string>
+
+
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="inicio">Iniciar sesión</string>
+    <string name="cerrar">Cerrar sesión</string>
+
+
 </resources>
