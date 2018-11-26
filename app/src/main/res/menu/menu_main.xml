@@ -1,9 +1,19 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="org.example.julia.exception.Main" >
-    <item android:id="@+id/action_settings"
-        android:title="@string/action_settings"
+    tools:context="org.example.julia.exception.Main">
+
+    <item
+        android:id="@+id/action_settings"
         android:orderInCategory="100"
-        app:showAsAction="never" />
+        android:title="@string/action_settings"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/mnIngresar"
+        android:title="@string/inicio"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/mnCerrar"
+        android:title="@string/cerrar"
+        app:showAsAction="collapseActionView" />
 </menu>
