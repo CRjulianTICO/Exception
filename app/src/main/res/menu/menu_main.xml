@@ -11,7 +11,7 @@
         app:showAsAction="collapseActionView" />
     <item
         android:id="@+id/mnIngresar"
-        android:title="@string/inicio"
+        android:title="@string/btLogin"
         app:showAsAction="collapseActionView" />
     <item
         android:id="@+id/mnCerrar"
