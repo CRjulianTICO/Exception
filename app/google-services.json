@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "791814699932",
+    "firebase_url": "https://exception-68c18.firebaseio.com",
+    "project_id": "exception-68c18",
+    "storage_bucket": "exception-68c18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791814699932:android:080548432945a7ac",
+        "android_client_info": {
+          "package_name": "org.example.julia.exception"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791814699932-t242m45n2ts0sf91lgbaomof11t8rnt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.example.julia.exception",
+            "certificate_hash": "9c65ff93cd6b8e3592359574e8401d7f44e28eeb"
+          }
+        },
+        {
+          "client_id": "791814699932-thes050rqtq2u0p6k0e5nuhsomthv4s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.example.julia.exception",
+            "certificate_hash": "cb0277f46a372ef2b4cf76c733d280fea4b50509"
+          }
+        },
+        {
+          "client_id": "791814699932-eknrllllimr4855m7cr76o4403mqkb99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCivDAOg43WcTC2R8P4Np8gnvfIcRcIJ0A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791814699932-eknrllllimr4855m7cr76o4403mqkb99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
